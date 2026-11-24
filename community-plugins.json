@@ -75913,5 +75913,12 @@
     "author": "nkyeah",
     "description": "View, open, and create daily notes from a calendar in the right sidebar. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "newkingyeah/better-calender"
+  },
+  {
+    "id": "black-hole-graph-scientific",
+    "name": "Black Hole Graph Scientific",
+    "author": "pila0873",
+    "description": "Visualize your vault as planets and moons orbiting a scientifically modeled black hole.",
+    "repo": "pila0873/black-hole-graph"
   }
 ]
